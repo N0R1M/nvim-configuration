@@ -1,5 +1,5 @@
 # nvim-configuration
-My NeoVim configuration! 
+<h1>My NeoVim configuration!</h1> 
 It's beta!
 Not configured lsp! 
 Keymaps are not used!
